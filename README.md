@@ -1,6 +1,6 @@
 <h1 align='center'> Forest Fire Detection </h3>
 <h3> The aim of this project was to detect forest fire in surveillance camera footage using IOT (Raspberry PI) and Computer Vision.</h3>
-<img src="https://github.com/SusanketSarkar/Forest-Fire-Detection-using-Raspberry-PI-and-Computer-Vision/blob/main/images/sample.png" align='center' height=350 width=1200>
+<img src="https://github.com/SusanketSarkar/Forest-Fire-Detection-using-Raspberry-PI-and-Computer-Vision/blob/main/images/sample.png" align='center' height=300 width=1200>
 
 <p>Our project used the camera module of Raspberry PI to take images of certain areas of the forest and check for forest fire in the area.</p>
 
