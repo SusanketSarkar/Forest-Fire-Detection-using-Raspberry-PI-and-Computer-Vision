@@ -1,4 +1,5 @@
-<h1 align='center'> WildGuard: AI-Powered Forest Fire Detection with Raspberry Pi and Computer Visionn </h3>
+<h1 align='center'> WildGuard </h1>
+<h2 align='center'> AI-Powered Forest Fire Detection with Raspberry Pi and Computer Visionn </h2>
 <h3> The aim of this project was to detect forest fire in surveillance camera footage using IOT (Raspberry PI) and Computer Vision.</h3>
 <img src="https://github.com/SusanketSarkar/Forest-Fire-Detection-using-Raspberry-PI-and-Computer-Vision/blob/main/images/sample.png" align='center' height=300 width=1200>
 
